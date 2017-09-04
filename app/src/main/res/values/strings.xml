@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BakingApps</string>
+    <string name="recipe_ingredients_label">Recipe Ingredients</string>
+    <string name="detail_label">Detail</string>
+    <string name="no_conncection">No Internet Connection</string>
+    <string name="tryAgain">Try Again</string>
+    <string name="previous_button_label">Previous</string>
+    <string name="next_button_label">Next</string>
+    <string name="fragment_initialized_state">FragmentInitialized</string>
+
+    <string name="screen_type">Phone</string>
+    <string name="add_label">Add</string>
+</resources>
